@@ -6,3 +6,12 @@
 **Contact me:**
 <br>Telegram: [@kurvinkl](https://t.me/kurvinkl)
 <br>E-mail: <a href="mailto:kurvinkl@gmail.com">kurvinkl@gmail.com</a>
+
+My main projects:
+- [Foodgram](https://github.com/KseniyaGurevich/foodgram-project-react) 
+- [Telegram-bot](https://github.com/KseniyaGurevich/homework_bot)
+- [Group project API Yamdb](https://github.com/KseniyaGurevich/api_yamdb)
+- [Social network](https://github.com/KseniyaGurevich/hw05_final)
+- [Space station control](https://github.com/KseniyaGurevich/Space_station)
+
+
