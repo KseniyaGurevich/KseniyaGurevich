@@ -13,5 +13,6 @@ My main projects:
 - [Group project API Yamdb](https://github.com/KseniyaGurevich/api_yamdb)
 - [Social network](https://github.com/KseniyaGurevich/hw05_final)
 - [Space station control](https://github.com/KseniyaGurevich/Space_station)
+- [Weather forecast for the current day](https://github.com/KseniyaGurevich/weather)
 
 
