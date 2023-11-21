@@ -8,8 +8,8 @@
 <br>E-mail: <a href="mailto:kurvinkl@gmail.com">kurvinkl@gmail.com</a>
 
 My main projects:
-- [Foodgram](https://github.com/KseniyaGurevich/foodgram-project-react) 
 - [AirWatcherBot](https://github.com/KseniyaGurevich/AirWatcherBot) - a telegram bot that gives out air quality data
+- [Foodgram](https://github.com/KseniyaGurevich/foodgram-project-react) 
 - [Group project API Yamdb](https://github.com/KseniyaGurevich/api_yamdb)
 - [Social network](https://github.com/KseniyaGurevich/hw05_final)
 - [Space station control](https://github.com/KseniyaGurevich/Space_station)
