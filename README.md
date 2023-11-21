@@ -9,7 +9,7 @@
 
 My main projects:
 - [Foodgram](https://github.com/KseniyaGurevich/foodgram-project-react) 
-- [AirWatcher TelegramBot](https://github.com/KseniyaGurevich/AirWatcherBot)
+- [AirWatcherBot](https://github.com/KseniyaGurevich/AirWatcherBot) - a telegram bot that gives out air quality data
 - [Group project API Yamdb](https://github.com/KseniyaGurevich/api_yamdb)
 - [Social network](https://github.com/KseniyaGurevich/hw05_final)
 - [Space station control](https://github.com/KseniyaGurevich/Space_station)
